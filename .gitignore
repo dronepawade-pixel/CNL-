@@ -1,0 +1,11 @@
+# KOHLER Next.js build artifacts & secrets (scoped so the rest of this repo is unaffected)
+Desktop/KOHLER/node_modules/
+Desktop/KOHLER/.next/
+Desktop/KOHLER/out/
+Desktop/KOHLER/.env.local
+Desktop/KOHLER/.env*.local
+Desktop/KOHLER/supabase/.branches/
+Desktop/KOHLER/supabase/.temp/
+Desktop/KOHLER/*.tsbuildinfo
+Desktop/KOHLER/next-env.d.ts
+.DS_Store
